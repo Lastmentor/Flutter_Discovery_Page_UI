@@ -1,2 +1,8 @@
-# Flutter_Discovery_Page_UI
-A template for discovery page UI
+# flutter_discovery_page_ui
+
+A new Flutter application.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
